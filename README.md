@@ -17,7 +17,7 @@ You will need the following things properly installed on your computer.
 * `npm install`
 * `bower install bootstrap --save`
 * `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
-
+*  living website https://online-store-46a0a.firebaseapp.com
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
