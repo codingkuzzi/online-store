@@ -3,9 +3,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
-## Development server
+## Prerequisites
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+You will need the following things properly installed on your computer.
+
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/) (with NPM)
+
+## Installation
+
+* `git clone https://github.com/codingkuzzi/online-store.git`
+* `cd online-store`
+* `npm install`
+* `bower install bootstrap --save`
+* `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Code scaffolding
 
